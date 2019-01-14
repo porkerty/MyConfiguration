@@ -4,6 +4,6 @@
 "image":"", 
 "jiankan":1,
 "fileName":"USEEEE",
-"imgName":"http://www.qhcftong.com/download.htm",
+"imgName":"http://www.qhcftong.com/download.html",
 "Reis essen":"米を食べる" 
 }
