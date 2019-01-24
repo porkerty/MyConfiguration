@@ -3,7 +3,7 @@
 "lowSorec":"45", 
 "image":"", 
 "jiankan":1,
-"fileName":"CN",
+"fileName":"USSSS",
 "imgName":"http://www.qhcftong.com/download.html",
 "Reis essen":"米を食べる" 
 }
